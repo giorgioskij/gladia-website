@@ -13,6 +13,14 @@ social:
     icon_pack: fas
     link: 'mailto:strano.1809528@studenti.uniroma1.it'
 
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=EvsNWNIAAAAJ&hl=en&oi=ao
+
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/giorgio-strano-837415360/
+
   - icon: github
     icon_pack: fab
     link: https://github.com/giorgioskij
